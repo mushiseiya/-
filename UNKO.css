@@ -37,7 +37,7 @@ h1{
     position:absolute;
     /*要素を天地中央寄せ*/
     top: 50%;
-    left: 50%;
+    left: 100%;
     transform: translateY(-50%) translateX(-50%);
     /*見た目の調整*/
     color:#fff;
